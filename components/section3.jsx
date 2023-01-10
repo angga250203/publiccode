@@ -43,7 +43,7 @@ function Section3() {
            <div className='py-12'>
           <h3 className='text-4xl lg:text-5xl font-bold   '>Memiliki <span className='text-blue-500'>website bisnis</span> itu penting banget!</h3>
           <p className='pt-5 pb-9 lg:text-xl text-gray-500'>website bisnis itu ibarat ‘rumah’ yang bisa dikunjungi para calon konsumen sebagai ‘tamu’, hanya dengan mencari di mesin pencarian,Sayang banget kalau bisnismu nggak memiliki website.</p>
-          <button className="learn-more z-50">
+          <button className="learn-more z-40">
                         <span className="circle" aria-hidden="true">
                         <span className="icon arrow"></span>
                         </span>
