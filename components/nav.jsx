@@ -30,7 +30,7 @@ function Navbar() {
 						<div className="flex items-center  mx-5  justify-between w-full">
 							<div className="flex justify-center items-center flex-shrink-0 ">
 								<h1 className=" font-bold text-xl cursor-pointer">
-									Stream<span className="text-blue-500">line</span>
+									Public<span className="text-blue-500">code</span>
 								</h1>
 							</div>
 							<div className="hidden md:block">

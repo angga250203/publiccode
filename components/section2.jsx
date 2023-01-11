@@ -39,7 +39,7 @@ function Section2() {
     <div className="lg:space-x-28 md:space-x-12 flex mb-12 px-7  flex-wrap text-center justify-center  py-12  ">
     {jasa.map((item) => {
         return(
-        <div className='w-full bg-gradient-to-r  from-sky-100 mb-12 py-8 rounded-2xl shadow-2xl to-white z-20 md:w-3/12 px-5 relative' key={item.id}>
+        <div className='w-full bg-gradient-to-r  from-sky-400 mb-12 py-8 rounded-2xl shadow-2xl to-purle-400 z-20 md:w-3/12 px-5 relative' key={item.id}>
           <motion.div 
           animate={{x:30 }}
           transition= {{ delay:4, duration:2,repeatType:"reverse",repeat:Infinity,repeatDelay:1 }}
@@ -55,11 +55,11 @@ function Section2() {
           className="w-[70px] blur-lg h-[70px] top-5 right-2 -z-10 rounded-full absolute bg-blue-300"></motion.div>
            
             <img
-            className='px-12 md:px-8 py-3'
+            className='px-12 md:px-8 py-3 '
             src={item.img}
             />
-            <h3 className='text-xl text-blue-500 font-bold'>{item.title}</h3>
-            <p className='text-gray-700'>{item.desc}</p>
+            <h3 className='text-xl text-white font-bold'>{item.title}</h3>
+            <p className='text-gray-200'>{item.desc}</p>
         </div>
 
         )

@@ -29,45 +29,45 @@ loop
       className='cursor-grab'
     >
          <SwiperSlide>
-        <div className='w-full rounded-xl shadow-2xl bg-blue-500 px-4 py-3'>
-            <p className='text-white'>"Lorem Ipsum is simply dummy text of the printing and typesetting industry. "</p>
-            <h3 className='mt-5 font-semibold text-xl text-white'>Bagaskoro</h3>
+        <div className='w-full rounded-xl shadow-2xl border-2 border-blue-500 px-4 py-3'>
+            <p className='text-gray-500 italic'>"Lorem Ipsum is simply dummy text of the printing and typesetting industry. "</p>
+            <h3 className='mt-5 font-semibold text-xl text-blue-400'>Bagaskoro</h3>
             <p className='text-lg text-gray-300'>CEO pt.woodenGo</p>
         </div>
         </SwiperSlide>
         <SwiperSlide>
-        <div className='w-full rounded-xl shadow-2xl bg-blue-500 px-4 py-3'>
-            <p className='text-white'>"Lorem Ipsum is simply dummy text of the printing and typesetting industry. "</p>
-            <h3 className='mt-5 font-semibold text-xl text-white'>Bagaskoro</h3>
-            <p className='text-lg text-gray-300'>CEO pt.woodenGo</p>
+        <div className='w-full rounded-xl shadow-2xl border-2 border-blue-500 px-4 py-3'>
+            <p className='text-gray-500 italic'>"Lorem Ipsum is simply dummy text of the printing and typesetting industry. "</p>
+            <h3 className='mt-5 font-semibold text-xl text-blue-400'>Bagaskoro</h3>
+            <p className='text-lg text-gray-400'>ceo pt.woodenindonesia</p>
         </div>
         </SwiperSlide>
         <SwiperSlide>
-        <div className='w-full rounded-xl shadow-2xl bg-blue-500 px-4 py-3'>
-            <p className='text-white'>"Lorem Ipsum is simply dummy text of the printing and typesetting industry. "</p>
-            <h3 className='mt-5 font-semibold text-xl text-white'>Bagaskoro</h3>
-            <p className='text-lg text-gray-300'>CEO pt.woodenGo</p>
+        <div className='w-full rounded-xl shadow-2xl border-2 border-blue-500 px-4 py-3'>
+            <p className='text-gray-500 italic'>"Lorem Ipsum is simply dummy text of the printing and typesetting industry. "</p>
+            <h3 className='mt-5 font-semibold text-xl text-blue-400'>Bagaskoro</h3>
+            <p className='text-lg text-gray-400'>ceo pt.woodenindonesia</p>
         </div>
         </SwiperSlide>
         <SwiperSlide>
-        <div className='w-full rounded-xl shadow-2xl bg-blue-500 px-4 py-3'>
-            <p className='text-white'>"Lorem Ipsum is simply dummy text of the printing and typesetting industry. "</p>
-            <h3 className='mt-5 font-semibold text-xl text-white'>Bagaskoro</h3>
-            <p className='text-lg text-gray-300'>CEO pt.woodenGo</p>
+        <div className='w-full rounded-xl shadow-2xl border-2 border-blue-500 px-4 py-3'>
+            <p className='text-gray-500 italic'>"Lorem Ipsum is simply dummy text of the printing and typesetting industry. "</p>
+            <h3 className='mt-5 font-semibold text-xl text-blue-400'>Bagaskoro</h3>
+            <p className='text-lg text-gray-400'>ceo pt.woodenindonesia</p>
         </div>
         </SwiperSlide>
         <SwiperSlide>
-        <div className='w-full rounded-xl shadow-xl bg-blue-500 px-4 py-3'>
-            <p className='text-white'>"Lorem Ipsum is simply dummy text of the printing and typesetting industry. "</p>
-            <h3 className='mt-5 font-semibold text-xl text-white'>Bagaskoro</h3>
-            <p className='text-lg text-gray-300'>CEO pt.woodenGo</p>
+        <div className='w-full rounded-xl shadow-xl border-2 border-blue-500 px-4 py-3'>
+            <p className='text-gray-500 italic'>"Lorem Ipsum is simply dummy text of the printing and typesetting industry. "</p>
+            <h3 className='mt-5 font-semibold text-xl text-blue-400'>Bagaskoro</h3>
+            <p className='text-lg text-gray-400'>ceo pt.woodenindonesia</p>
         </div>
         </SwiperSlide>
         <SwiperSlide>
-        <div className='w-full rounded-xl shadow-xl bg-blue-500 px-4 py-3'>
-            <p className='text-white'>"Lorem Ipsum is simply dummy text of the printing and typesetting industry. "</p>
-            <h3 className='mt-5 font-semibold text-xl text-white'>Bagaskoro</h3>
-            <p className='text-lg text-gray-300'>CEO pt.woodenGo</p>
+        <div className='w-full rounded-xl shadow-xl border-2 border-blue-500 px-4 py-3'>
+            <p className='text-gray-500 italic'>"Lorem Ipsum is simply dummy text of the printing and typesetting industry. "</p>
+            <h3 className='mt-5 font-semibold text-xl text-blue-400'>Bagaskoro</h3>
+            <p className='text-lg text-gray-400'>ceo pt.woodenindonesia</p>
         </div>
         </SwiperSlide>
         </Swiper>

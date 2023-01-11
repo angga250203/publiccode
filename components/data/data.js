@@ -3,19 +3,19 @@ export const jasa  = [
         id: 0,
         title: "Fortune Top 20",
         desc: "Satu-satunya perusahaan di Asia Tenggara yang dua kali berada di daftar Perusahaan Pengubah Dunia versi majalah Fortune",
-        img: "../aset/seo.gif",
+        img: "../aset/seo.svg",
     },
     {
         id: 1,
         title: "Fortune Top 20",
         desc: "Satu-satunya perusahaan di Asia Tenggara yang dua kali berada di daftar Perusahaan Pengubah Dunia versi majalah Fortune",
-        img: "../aset/desaign.gif",
+        img: "../aset/web.svg",
     },
     {
         id: 2,
         title: "Fortune Top 20",
         desc: "Satu-satunya perusahaan di Asia Tenggara yang dua kali berada di daftar Perusahaan Pengubah Dunia versi majalah Fortune",
-        img: "../aset/site.gif",
+        img: "../aset/ui.svg",
     },
 ]
 
